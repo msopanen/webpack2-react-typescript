@@ -1,13 +1,13 @@
-# Webpack2 React TypeScript Boilerplate
+# Webpack 2 React TypeScript Boilerplate
 
 # Prerequsites Node v6
 https://deb.nodesource.com/setup_6.x
 
 # Build
-npm install
-npm run build
+yarn install
+yarn run build
 
 # Develop
-npm run start
+yarn run start
 
 starts development webserver to http://localhost:8080/
