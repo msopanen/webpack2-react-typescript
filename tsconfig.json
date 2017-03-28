@@ -9,13 +9,13 @@
         "noFallthroughCasesInSwitch": true,
         "noImplicitAny": true,
         "noImplicitReturns": true,
-        "outDir": "./dist/",
+        "outDir": "../dist/",
         "strictNullChecks": true,
         "target": "es5"
     },
     "awesomeTypescriptLoaderOptions": {
-        "useBabel": true,
-        "useCache": true
+        "useBabel": false,
+        "useCache": false
     },
     "exclude": [
         "dist",
